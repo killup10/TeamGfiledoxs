@@ -8,15 +8,19 @@ TeamG Store Canales PREMIUM
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",LATINA HD
+http://181.65.154.170:8000/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",LATINA sd
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/LATINA/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DLATINA_stream_hj&_cdn_session=372391787&_cdn_timestamp=1665494227&_cdn_token=72279edbcf68d20b148d064f327a8c57357ec16b
+
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV HD
+http://181.65.154.170:8000/play/a059/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV sd
 http://209.45.95.18:8000/play/a03c
 
-
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV HD
-https://cdn2.eco.cdn.moderntv.eu/econocable/stream/AMERICATV/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DAMERICATV_stream_wn&_cdn_session=372391443&_cdn_timestamp=1665494212&_cdn_token=8a325630ee51befe07353a71a39a48f9307468d7
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",AMERICA TV HD op2
 http://8.243.127.178:8000/play/a010
@@ -40,12 +44,12 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/TVPERU/40-hls/live-media.m3u8
 http://209.45.95.18:8000/play/a034
 
 
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",ATV
-http://190.239.25.140:8000/play/a02h/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",ATV HD
 https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",ATV
+http://190.239.25.140:8000/play/a02h/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",ATV +
@@ -53,12 +57,14 @@ https://dysmuyxh5vstv.cloudfront.net/hls/atv2_480.m3u8
 
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="DEPORTES",GOL PERU HD
-
+http://181.65.154.170:8000/play/a05b/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",WILLAX HD
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/WILLAX/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DWILLAX_stream_nk&_cdn_session=369705763&_cdn_timestamp=1665352107&_cdn_token=0dd1d6c51981eb48fbc29fb3e1f8ef166432560b
 
+#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",WILLAX SD
+http://181.65.154.170:8000/play/a02c/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",GLOBAL TELEVISION HD
@@ -76,7 +82,7 @@ https://cdn3.eco.cdn.moderntv.eu/econocable/stream/EXITOSATV/40-hls/live-media.m
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="CANALES LOCALES",CTV NOTICIAS
-
+http://181.65.154.170:8000/play/a080/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="PELIS Y SERIES",M3 FAMILY
 http://190.108.83.142:8000/play/a002/index.m3u8
@@ -94,7 +100,8 @@ http://209.45.95.18:8000/play/a071
 
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",CANAL DE ESTRELLAS HD
-http://soberon.us:25461/live/m0nk3yn3w/n3wm0nk3y/61.m3u8
+http://181.65.154.170:8000/play/a07s/index.m3u8	
+
 
 #EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/"  group-title="NOVELAS",CANAL DE ESTRELLAS SD
 Http://190.61.102.67:31589/play/a00g/index.m3u8	
